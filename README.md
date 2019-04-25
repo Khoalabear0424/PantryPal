@@ -5,3 +5,5 @@
 
 ## Login-Signup.html
 - This page will contain a modal for the signup button and the fields for email and password.
+
+Updated readme
