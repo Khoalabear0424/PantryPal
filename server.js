@@ -15,13 +15,21 @@ app.use(bodyParser.json());
 app.use(session({ secret: 'app', cookie: { maxAge: 1 * 1000 * 60 * 60 * 24 * 365 } }));
 app.use(cookieParser());
 
-var con = mysql.createConnection({
-    host: "localhost",
-    port: 3306,
-    user: "root",
-    password: "password",
-    database: "food_db"
-});
+var con
+
+if (process.env.JAWSDB_URL) {
+    con = mysql.createConnection(process.env.JAWSDB_URL)
+
+} else {
+    con = mysql.createConnection({
+        host: "localhost",
+        port: 3306,
+        user: "root",
+        password: "password",
+        database: "food_db"
+    });
+}
+
 
 con.connect();
 
