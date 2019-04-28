@@ -14,6 +14,7 @@ jQuery, Bootstrap, EJS, Node.js, Express, Bcrypt, MySQL, RESTFUL
 
 1. To visual indicate the state of each food, the icon of that item will change color over time from a green to a red hue.
 2. Custom items may be added and a custom expiration date may be specified.  This custom item will only appear for the user that create them.
+3. In the inventory page, only custom items may be deleted from the inventory.  This is to ensure that the 'core' foods do not get deleted as they must appear for all users.
 
 ## Installation <hr>
 
