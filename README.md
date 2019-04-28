@@ -1,6 +1,6 @@
 ## Pantry Pal <hr>
 
-Is your food going bad before you can eat them? I know that this happens to me a lot! With Pantry Pal, you can keep track of the food so that nothing will expire on your watch!
+Pantry Pal is an applicaton that will allow you to keep track of all your foods before they expire!  With a simple and intuitive UI, you can always keep track of the current status of your foods!.
 
 ## Motivation <hr>
 
