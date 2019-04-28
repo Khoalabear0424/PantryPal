@@ -19,5 +19,10 @@ jQuery, Bootstrap, EJS, Node.js, Express, Bcrypt, MySQL, RESTFUL
 4. Now that the database has been created, run server with <br>`nodemon server.js`
 5. In browser, go to `localhost:3000/` and begin using app.
 
+## How it works <hr>
+1. Upon first log in, you will see that the pantry page is empty.  You must go to inventory to add common foods that you buy.
+2. In the inventory page, select on all icons that you would like in your pantry.
+3. The add to pantry button will updated the groups of icon that will by default be on the home screen.
+4. 
 
 ## Feel Free to message me with any questions!
