@@ -13,6 +13,7 @@ jQuery, Bootstrap, EJS, Node.js, Express, Bcrypt, MySQL, RESTFUL
 ## Features
 
 1. To visual indicate the state of each food, the icon of that item will change color over time from a green to a red hue.
+2. Custom items may be added and a custom expiration date may be specified.  This custom item will only appear for the user that create them.
 
 ## Installation <hr>
 
