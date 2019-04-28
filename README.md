@@ -27,5 +27,6 @@ jQuery, Bootstrap, EJS, Node.js, Express, Bcrypt, MySQL, RESTFUL
 5. By clicking on the icon, they will change to a green color which indicates that they have just been bought.
 6. Overtime, this color will slowly change to a red hue.
 7. This red hue indicates that the item will expire soon.
+8. You will also see a small `x` in the right top corner of each icon.  Clicking this will remove this icon from the home page and also unselect it from the inventory page.
 
 ## Feel Free to message me with any questions!
