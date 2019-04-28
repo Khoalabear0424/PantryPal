@@ -4,13 +4,11 @@ Pantry Pal is an applicaton that will allow you to keep track of all your foods 
 
 ## Motivation <hr>
 
-Friend Finder is a simple application that use a relational databse MySQL to run analysis on the answers that each user submits.
-
-It provides good practice for those who want to practice creating a full stack application using MySQL.
+Do you find that you often forget about the food in the back of your fridge or hidden away in your pantry?  I know that this happens to me a lot.  I wanted to make an application that would be simple enough to use and informative enough so that I can always keep track of the foods that I have.
 
 ## Tech/Framework Used <hr>
 
-jQuery, Node.js, Express, MySQL
+jQuery, Bootstrap, EJS, Node.js, Express, Bcrypt, MySQL, RESTFUL
 
 ## Installation <hr>
 
