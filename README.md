@@ -1,6 +1,6 @@
-## Friend Finder <hr>
+## Pantry Pal <hr>
 
-By taking a short 10 question questionaire, users can see who they have the most in common with! 
+Is your food going bad before you can eat them? I know that this happens to me a lot! With Pantry Pal, you can keep track of the food so that nothing will expire on your watch!
 
 ## Motivation <hr>
 
