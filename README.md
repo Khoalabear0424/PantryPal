@@ -23,6 +23,9 @@ jQuery, Bootstrap, EJS, Node.js, Express, Bcrypt, MySQL, RESTFUL
 1. Upon first log in, you will see that the pantry page is empty.  You must go to inventory to add common foods that you buy.
 2. In the inventory page, select on all icons that you would like in your pantry.
 3. The add to pantry button will updated the groups of icon that will by default be on the home screen.
-4. 
+4. When these icons are first added, they will have a white background.  This indicates that they are in a pending state.  You have no bought any of this item yet.
+5. By clicking on the icon, they will change to a green color which indicates that they have just been bought.
+6. Overtime, this color will slowly change to a red hue.
+7. This red hue indicates that the item will expire soon.
 
 ## Feel Free to message me with any questions!
