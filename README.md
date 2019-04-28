@@ -10,6 +10,10 @@ Do you find that you often forget about the food in the back of your fridge or h
 
 jQuery, Bootstrap, EJS, Node.js, Express, Bcrypt, MySQL, RESTFUL
 
+## Features
+
+1. To visual indicate the state of each food, the icon of that item will change color over time from a green to a red hue.
+
 ## Installation <hr>
 
 1. Clone repo into project folder
